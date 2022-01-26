@@ -10,6 +10,7 @@ First of all, you have to download and install SMAPI for Stardew Valley.
 Unzip the mod folder into Stardew Valley/Mods folder.
 
 - Download and move [JA] LoL Masks folder into Stardew Valley/Mods folder.
+
 ...and we are ready.
 
 # KINDRED MASK
