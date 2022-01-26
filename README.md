@@ -25,7 +25,7 @@ Unzip the mod folder into Stardew Valley/Mods folder.
 
 ![jhin](https://user-images.githubusercontent.com/69986916/151085440-417b3d30-fbe4-4623-bbae-ecae2883e12e.jpg)
 
+# UPDATES
 More will come. Zed's mask is at the top of my list. 
 
-# UPDATES
 I know Jhin's mask doesn't look good :( These have been my first pixel art works.
