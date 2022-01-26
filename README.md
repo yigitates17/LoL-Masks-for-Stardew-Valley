@@ -3,9 +3,12 @@ A simple Stardew Valley mod which adds many League of Legends characters' masks.
 
 # HOW TO INSTALL
 - SMAPI: https://smapi.io/
+
 First of all, you have to download and install SMAPI for Stardew Valley.
 - Json Assets: https://www.nexusmods.com/stardewvalley/mods/1720
+
 Unzip the mod folder into Stardew Valley/Mods folder.
+
 - Download and move [JA] LoL Masks folder into Stardew Valley/Mods folder.
 ...and we are ready.
 
