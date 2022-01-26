@@ -1,0 +1,11 @@
+{
+   "Name": "League of Legends Masks by Ravenwald",
+   "Author": "Ravenwald",
+   "Version": "1.0.0",
+   "Description": "My first mod ever, from Runeterra.",
+   "UniqueID": "ravenwald.league",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"
+    },
+}
