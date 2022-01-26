@@ -12,11 +12,13 @@ Unzip the mod folder into Stardew Valley/Mods folder.
 # KINDRED MASK
 
 ![kindred2](https://user-images.githubusercontent.com/69986916/151085398-df05754a-21fd-402e-a812-6ddaf32bd9b6.jpg)
+
 ![kindred](https://user-images.githubusercontent.com/69986916/151085411-a105469d-dc9b-47e2-9ea0-2b1c79f4270e.jpg)
 
 # JHIN MASK
 
 ![jhin2](https://user-images.githubusercontent.com/69986916/151085430-9d36e997-ebb3-4c44-a507-cf4c3fc08425.jpg)
+
 ![jhin](https://user-images.githubusercontent.com/69986916/151085440-417b3d30-fbe4-4623-bbae-ecae2883e12e.jpg)
 
 More will come. Zed's mask is at the top of my list. 
