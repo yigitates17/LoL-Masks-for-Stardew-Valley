@@ -11,7 +11,7 @@ Unzip the mod folder into Stardew Valley/Mods folder.
 
 - Download and move [JA] LoL Masks folder into Stardew Valley/Mods folder.
 
-...and we are ready. You can buy the masks at Hat Mouse for 10g for each.
+...and we are ready. You can buy the masks from Hat Mouse for 10g for each.
 
 # KINDRED MASK
 
